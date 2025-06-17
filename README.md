@@ -1,10 +1,10 @@
 # Evangel Scholar - My First Coding Project
 
-A study companion app built during my introduction to coding at Evangel University.
+A studying app that I built during the computers class at Evangel University.
 
 ## What I Built
 
-Evangel Scholar is a React-based web application that helps students study more effectively. Features include:
+I built an app called Evangel Scholar, it is designed to help with studying!
 
 - 📚 **Interactive Flashcards** - Digital study cards with flip functionality
 - ⏰ **Study Timer** - 25-minute focus sessions with prayer break reminders  
@@ -33,8 +33,7 @@ This project represents my first experience with coding. Over 7 days, I learned:
 
 ## About Me
 
-I'm a student at Evangel University learning to use technology to serve others and solve problems. This project taught me that coding is accessible, creative, and incredibly rewarding.
-
+I'm a student at Evangel University going through the computer and tech class to further my chances of being accepted into a vet school.
 ---
 
 *Built with ❤️ at Evangel University*
