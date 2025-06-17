@@ -38,3 +38,5 @@ I'm a student at Evangel University learning to use technology to serve others a
 ---
 
 *Built with ❤️ at Evangel University*
+![evangel-scholar-homepage](https://github.com/user-attachments/assets/39770928-c7c3-405e-81b0-751b41d6ba54)
+
